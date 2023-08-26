@@ -22,9 +22,11 @@ and tick prevalence in the area during that time period. This information could 
 Additionally, public health agencies and local authorities may have more recent data and insights into tick populations and associated health risks in the Toronto area beyond my knowledge cutoff date in September 2021.
 
 
-The increase in the percentage of ticks found to be diseased from 26% in 2013-2016 to close to half in 2017 and beyond could be due to a combination of factors, including changes in tick-borne disease prevalence and improved testing and reporting efforts. Here are some potential explanations:
+The increase in the percentage of ticks found to be diseased from 26% in 2013-2016 to close to half in 2017 and beyond could be due to a combination of factors, including changes in tick-borne disease prevalence and improved testing and reporting efforts. 
+Here are some potential explanations:
 
-Increased Disease Prevalence: Tick-borne diseases are influenced by a variety of factors, including the abundance of infected host animals, tick populations, and environmental conditions. If the prevalence of tick-borne diseases in the Toronto area increased during this time period, it would lead to more ticks being infected.
+Increased Disease Prevalence: Tick-borne diseases are influenced by a variety of factors, including the abundance of infected host animals, tick populations, and environmental conditions. 
+If the prevalence of tick-borne diseases in the Toronto area increased during this time period, it would lead to more ticks being infected.
 
 Improved Testing: Advances in diagnostic techniques and increased awareness of tick-borne diseases can lead to more thorough testing of ticks for pathogens. As testing methods become more sensitive and widely available, more infected ticks may be detected.
 
@@ -36,4 +38,6 @@ Environmental Factors: Changes in the local environment, including alterations i
 
 Tick Species: Different species of ticks can carry different pathogens, and their prevalence can vary over time. If there was a shift in the dominant tick species in the area, it could affect the types and prevalence of diseases found in ticks.
 
-To determine whether the increase in diseased ticks is primarily due to rising disease prevalence or increased testing and reporting, it would be necessary to analyze detailed data on tick-borne disease trends, tick populations, and testing practices in the Toronto area during this specific time frame. Local health authorities and researchers specializing in tick-borne diseases would be best equipped to conduct such an analysis and provide insights based on the most current data available.
+To determine whether the increase in diseased ticks is primarily due to rising disease prevalence or increased testing and reporting, 
+it would be necessary to analyze detailed data on tick-borne disease trends, tick populations, and testing practices in the Toronto area during this specific time frame. 
+Local health authorities and researchers specializing in tick-borne diseases would be best equipped to conduct such an analysis and provide insights based on the most current data available.
